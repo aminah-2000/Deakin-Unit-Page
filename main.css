@@ -20,9 +20,4 @@ p {
 div {
   background-color: darkcyan;
   text-align: right;
-  padding: 20px;
-}
-
-div img {
-  float: right;
 }
